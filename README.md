@@ -18,3 +18,6 @@ Builds the app for production to the `build` folder.\
 ### Deployment
 
 U can check the project Live From Here: https://clothyshopy-react-dummy-store.netlify.app/
+
+### Note
+There is no testing unit on the project yet
