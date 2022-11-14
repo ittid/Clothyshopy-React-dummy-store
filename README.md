@@ -14,8 +14,12 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ### `npm run build`
 
 Builds the app for production to the `build` folder.\
-### Deployment
+### `Deployment`
 You can check the project Live From Here: https://clothyshopy-react-dummy-store.netlify.app/
 
-### Note
+### `Note`
 There is no testing unit on the project yet
+
+### `Update v1`
+- implement delete btn
+- add a Button to update Product 
