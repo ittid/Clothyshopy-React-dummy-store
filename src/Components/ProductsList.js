@@ -55,7 +55,6 @@ function ProductsList() {
             </button>
           );
         })}
-
         <div className="row">
           {setProductByCategories.length > 0 ? (
             <Product data={product} />

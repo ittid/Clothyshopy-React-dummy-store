@@ -8,6 +8,7 @@ function About() {
           totam vel repudiandae incidunt minima harum laboriosam itaque eveniet
           tempore.
         </p>
+
       </div>
     </>
   );
