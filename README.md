@@ -21,3 +21,7 @@ U can check the project Live From Here: https://clothyshopy-react-dummy-store.ne
 
 ### Note
 There is no testing unit on the project yet
+
+### Update v1
+- implement delete btn
+- add a Button to update Product 
